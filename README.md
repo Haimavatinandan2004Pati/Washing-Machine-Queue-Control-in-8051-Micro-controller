@@ -84,7 +84,7 @@ In hostel settings with limited washing machines and large student populations, 
 
 ## 🎯 Results
 
-- **Accuracy**: ~95.7% over 70 iterations
+- **Accuracy**: ~99% over 200+ iterations
 - **Failure Cases**: 3 early-stage errors (fixed via reset)
 - **Conclusion**: Efficient and cost-effective hostel utility system
 
